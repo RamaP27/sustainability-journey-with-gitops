@@ -1,4 +1,7 @@
+
 ### ⚡Lightning Talk: Green(Ing) CI/CD: A Sustainability Journey with GitOps
+
+"Sustainability Journey with GitOps" refers to the process of implementing and maintaining sustainable practices within an organization's software development lifecycle using GitOps principles. It involves leveraging Git as the single source of truth for infrastructure and application configuration, automating workflows, and continuously improving processes to enhance efficiency, reliability, and scalability. By adopting GitOps, teams can achieve greater collaboration, transparency, and repeatability in their development and operations, leading to a more sustainable and resilient software delivery pipeline.
 #### by Niki Manoledaki, Software Engineer, Weaveworks
 [[GitOpsCon NA 2022](https://gitopsconna22.sched.com/event/1AR8Y)]
 
